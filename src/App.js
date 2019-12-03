@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-<Testt></Testt>
+<Testt name="Ajay" age="26"></Testt>
 
 <br></br>
         Ajay's First React App
